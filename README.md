@@ -1,5 +1,3 @@
 # skyreliance-mobile
-# skyreliance-mobile
-# skyreliance-mobile
-# skyreliance-mobile
-# skyreliance-mobile
+
+### A mobile banking app...
